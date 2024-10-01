@@ -12,23 +12,25 @@ author: T2NDS.net
 
 ---
 
+
 ### How do I get started?
 
-- [ ]  You will need to get yourself a copy of the game, if you don't have one already!
+- You will need to get yourself a copy of the game, if you don't have one already!
 
-- [ ]  Next, you will want to ensure you are on the same version as our server. Check below.
+- Next, you will want to ensure you are on the same version as our server. Check below.
 
-- [ ]  Now you will load up the game, and figure out your settings. Don't worry about your keybinds as of much yet.
+- Now you will load up the game, and figure out your settings. Don't worry about your keybinds as of much yet.
 
-- [ ]  Next, you will find the server:
-1.  Click "Multiplayer"
+- Next, you will find the server:
 
-2. Click "Browse public servers"
+	1.  Click "Multiplayer"
 
-3. In "Search.." type in "TSSN"
+	2. Click "Browse public servers"
 
-4. You will see "[EN] TSSN - PIONEERS |PvE| |Arise Civilization!| |New Player Friendly|"
+	3. In "Search.." type in "TSSN"
 
-5. Click on it, then click "Add to Favorites", then press "Join Server"
+	4. You will see "[EN] TSSN - PIONEERS |PvE| |Arise Civilization!| |New Player Friendly|"
 
-6. It will then start the mod downloading process. Once finished, you will connect to the server.
+	5. Click on it, then click "Add to Favorites", then press "Join Server"
+
+	6. It will then start the mod downloading process. Once finished, you will connect to the server.
