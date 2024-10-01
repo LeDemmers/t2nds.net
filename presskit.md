@@ -30,7 +30,7 @@ For any inquiries, collaborations, or support, feel free to reach out to us:
 
 Email: [t2nds.net@gmail.com](mailto:t2nds.net@gmail.com)
 
-Social Media: [Discord](https://discord.gg/FEzMPT4) | [X]() | [Steam]()
+Social Media: [Discord](https://discord.gg/FEzMPT4) | [X]() | [Steam Group](https://steamcommunity.com/groups/t2nds)
 
 
 ---

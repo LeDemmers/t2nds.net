@@ -29,7 +29,7 @@ Let’s bring your campaigns to life! Discover our D&D Virtual Tabletop hosting 
 
 Email: [t2nds.net@gmail.com](mailto:t2nds.net@gmail.com)
 
-Social Media: [Discord](https://discord.gg/FEzMPT4) | [X]() | [Steam]()
+Social Media: [Discord](https://discord.gg/FEzMPT4) | [X]() | [Steam Group](https://steamcommunity.com/groups/t2nds)
 
 
 ---
