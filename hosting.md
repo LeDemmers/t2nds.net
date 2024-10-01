@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Press Kit
-subtitle: Looking to share the word? Send your carrier-pigeon today!
+title: Hosting
 ---
 ## The Second Server Network Hosting Solutions
 
@@ -13,7 +12,7 @@ subtitle: Looking to share the word? Send your carrier-pigeon today!
 - Optimized Performance: Our servers are fine-tuned for D&D VTT platforms, ensuring smooth gameplay with minimal lag, so you can focus on storytelling and strategy without interruptions.
 - Easy Setup and Management: With our user-friendly control panel, you can quickly set up your D&D campaign, manage game settings, and customize your server to fit your group’s unique style.
 - Scalability: Whether you're running a small private game or a large public server, our solutions can easily scale to accommodate your needs, allowing for seamless growth as your campaigns evolve.
-- 24/7 Dedicated Support: Our experienced support team is available around the clock to assist with any technical issues, ensuring that your games run smoothly every time.
+- Dedicated Support: Our experienced support team is available to assist with any technical issues, ensuring that your games run smoothly every time.
 
 #### Collaborative Hosting Opportunities
 
@@ -28,9 +27,9 @@ We believe in the strength of community and are eager to partner with other gami
 #### Get in Touch
 Let’s bring your campaigns to life! Discover our D&D Virtual Tabletop hosting solutions today and see how we can work together to create unforgettable gaming experiences.
 
-Email: [t2nds.net@aol.com](mailto:t2nds.net@aol.com)
+Email: [t2nds.net@gmail.com](mailto:t2nds.net@gmail.com)
 
-Social Media: [Discord]() | [X]() | [Steam]()
+Social Media: [Discord](https://discord.gg/FEzMPT4) | [X]() | [Steam]()
 
 
 ---

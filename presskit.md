@@ -28,9 +28,9 @@ subtitle: Looking to share the word? Send your carrier-pigeon today!
 #### Contact Us
 For any inquiries, collaborations, or support, feel free to reach out to us:
 
-Email: [t2nds.net@aol.com](mailto:t2nds.net@aol.com)
+Email: [t2nds.net@gmail.com](mailto:t2nds.net@gmail.com)
 
-Social Media: [Discord]() | [X]() | [Steam]()
+Social Media: [Discord](https://discord.gg/FEzMPT4) | [X]() | [Steam]()
 
 
 ---
