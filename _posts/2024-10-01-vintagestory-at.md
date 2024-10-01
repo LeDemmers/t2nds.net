@@ -29,7 +29,7 @@ author: T2NDS.net
 
 	3. In "Search.." type in "TSSN"
 
-	4. You will see "[EN] TSSN - PIONEERS |PvE| |Arise Civilization!| |New Player Friendly|"
+	4. You will see "EN TSSN - PIONEERS PvE Arise Civilization! New Player Friendly"
 
 	5. Click on it, then click "Add to Favorites", then press "Join Server"
 
