@@ -6,16 +6,16 @@ tags: [game, server]
 author: T2NDS.net
 ---
 
-## What is, Vintage Story?
+## We are operating a modded VintageStory adventure with many great features in place. Our goal of making an interactive community grows by the day, and you could a part of it, 
 
-> Vintage Story is an **uncompromising** wilderness **survival** **sandbox** game inspired by **eldritch** horror themes. Find yourself in a ruined world reclaimed by nature and permeated by unnerving temporal disturbances. Relive the advent of human civilization, or take your own path.
+> [Vintage Story](https://www.vintagestory.at/) is an **uncompromising** wilderness **survival** **sandbox** game inspired by **eldritch** horror themes. Find yourself in a ruined world reclaimed by nature and permeated by unnerving temporal disturbances. Relive the advent of human civilization, or take your own path.
 
 ---
 
 
 ### How do I get started?
 
-- You will need to get yourself a copy of the game, if you don't have one already!
+- You will need to get yourself a [copy of the game](https://www.vintagestory.at/), if you don't have one already!
 
 - Next, you will want to ensure you are on the same version as our server. Check below.
 
