@@ -1,13 +1,9 @@
 ---
-
 layout: post
 title: Vintage Story
 subtitle: Come join the Pioneers!
 tags: [game, server]
-comments: false
-mathjax: true
 author: T2NDS.net
-
 ---
 
 ## What is, Vintage Story?
